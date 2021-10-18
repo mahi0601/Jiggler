@@ -3,9 +3,17 @@
 A React app aimed to give users more control over the Spotify recommendation engine. 
 
 ## Features
-[](4.jpg)
-[](5.jpg)
-[](12-43-38.mp4)
+- Built in search
+- 4 formats 🤘
+- Fast in grabbing information and downloading 🚀
+- Suggestions
+- Responsive 😎
+- Also usable on iOS & Android
+
+## Screenshots
+![](4.jpg)
+![](5.jpg)
+[!](12-43-38.mp4)
 Install dependencies and start:
 ```
 npm install
