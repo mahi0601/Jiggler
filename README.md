@@ -2,14 +2,7 @@
 
 A React app aimed to give users more control over the Spotify recommendation engine. 
 
-## Local Development
-Clone this repo (or fork):
-```
-git clone https://github.com/tommygeiger/tuner
-cd spotify-react-app
-```
-
-Make sure `redirectUri` in `src/auth.js` is set to `http://localhost/3000/`
+## Features
 
 Install dependencies and start:
 ```
