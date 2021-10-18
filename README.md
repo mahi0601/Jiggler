@@ -4,16 +4,18 @@ A React app aimed to give users more control over the Spotify recommendation eng
 
 ## Features
 - Built in search
-- 4 formats 🤘
+- Genres could be set 🤘
 - Fast in grabbing information and downloading 🚀
-- Suggestions
+- Authorization and authenctication
 - Responsive 😎
 - Also usable on iOS & Android
 
 ## Screenshots
 ![](4.jpg)
+
 ![](5.jpg)
-[!](12-43-38.mp4)
+
+![](12-43-38.mp4)
 Install dependencies and start:
 ```
 npm install
