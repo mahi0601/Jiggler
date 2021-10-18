@@ -14,7 +14,7 @@ A React app aimed to give users more control over the Spotify recommendation eng
 ![](4.jpg)
 
 ![](5.jpg)
-[![Jiggler]](12-43-38.mp4)
+
 
 Install dependencies and start:
 ```
